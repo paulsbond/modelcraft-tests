@@ -1,5 +1,5 @@
 from modelcraft.structure import _KNOWN_PROTEIN_RESIDUES, ModelStats, read_structure
-from modelcraft.tests import data_path
+from tests import data_path
 
 
 def test_number_of_known():

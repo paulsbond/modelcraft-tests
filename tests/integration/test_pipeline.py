@@ -4,7 +4,7 @@ import shutil
 import uuid
 import pytest
 from modelcraft.__main__ import main
-from modelcraft.tests import data_path
+from tests import data_path
 
 
 def _test_pipeline(argument_list):

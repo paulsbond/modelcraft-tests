@@ -1,6 +1,6 @@
 import gemmi
 from modelcraft.jobs import Refmac, Prune, FixSideChains
-from modelcraft.tests import data_path
+from tests import data_path
 from modelcraft.structure import ModelStats, read_structure
 from modelcraft.reflections import DataItem
 

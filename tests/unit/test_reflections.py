@@ -2,7 +2,7 @@ from typing import List
 import gemmi
 import pytest
 from modelcraft.reflections import expand_label, DataItem, _combine_data_items
-from modelcraft.tests import data_path
+from tests import data_path
 
 
 @pytest.mark.parametrize(

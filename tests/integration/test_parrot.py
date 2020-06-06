@@ -2,7 +2,7 @@ import gemmi
 from modelcraft.contents import AsuContents
 from modelcraft.jobs import Parrot
 from modelcraft.reflections import DataItem
-from modelcraft.tests import data_path
+from tests import data_path
 
 
 def test_1kv9():

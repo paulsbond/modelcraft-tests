@@ -1,6 +1,6 @@
 import pytest
 from modelcraft.contents import PolymerType, Polymer, AsuContents
-from modelcraft.tests import data_path
+from tests import data_path
 
 
 @pytest.mark.parametrize(
